@@ -17,7 +17,7 @@ Below the table of contents, there are instructions on how to start making exper
 They can also be handy for anyone trying to get any of the included examples or tutorials in this
 repository.
 
-And further down on the page is an introduction to scripting in Sansar.  This assumes a basic
+And further down in the page is an introduction to scripting in Sansar.  This assumes a basic
 knowledge of modern programming principles and C# and can be quite technical at times.  But there is
 no need to fully understand all of this.  
 
